@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /tmp/archive-check)",
+      "Read(//tmp/**)",
+      "Bash(rm -rf -- *)",
+      "Bash(unzip -q /tmp/guji-demo-aQmlz1/demo-archive.zip)"
+    ]
+  }
+}
